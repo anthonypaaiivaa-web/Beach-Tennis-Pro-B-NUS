@@ -1,0 +1,6 @@
+{
+  "name": "Beach Tennis Pro",
+  "description": "Biblioteca completa de treinos, técnicas, condicionamento físico e táticas de Beach Tennis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
